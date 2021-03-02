@@ -2,3 +2,5 @@
 import './style.css';
 
 // Write Javascript code!
+
+console.log("Hello World");

@@ -4,7 +4,6 @@
 }
 
 .nav a {
-  margin-top: 0px;
   float: left;
   color: Black;
   text-align: center;
@@ -15,8 +14,8 @@
 
 .fot
 {
-  background-color: DarkOrange; 
-color: Black; 
+  background-color: Black; 
+color: White; 
 padding:5px;
 text-align: center;
 }
