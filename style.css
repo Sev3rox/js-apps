@@ -12,6 +12,63 @@
   font-size: 16px;
 }
 
+.header{
+  background-color: Black; 
+  color: White; 
+  text-align: center; 
+  Padding: 1px;
+}
+
+.sec{
+  width : 81%;
+   float: left; 
+   height:1200px;
+}
+.art{
+  text-align: center; 
+  background-color: Black; 
+  color:White; 
+  font-size:26px;
+}
+
+.arti{
+  height:220px; 
+  background-color: Grey; 
+  border: 5px solid DarkOrange;
+}
+.title{
+  font-size:36px;
+   text-align: center;
+}
+
+.img{
+  width:240px;
+   float: left
+}
+
+.txt{
+  padding:15px 20px 15px 300px;
+   font-size:32px; 
+    word-wrap: break-word;
+}
+
+.date{
+  float:right;
+}
+
+.rige{
+  background-color: Black;
+   width: 19%;
+    float: right; 
+    height:1200px; 
+    color: White
+}
+
+
+.img2{
+  width:350px;
+   Padding: 3px 3px
+}
 .fot
 {
   background-color: Black; 
